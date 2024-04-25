@@ -5,6 +5,4 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 📫 How to reach me **butuantuann@gmail.com**
-
 </p>
